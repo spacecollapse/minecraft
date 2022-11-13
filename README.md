@@ -11,6 +11,7 @@ Akrien Free на майнкрафт 1 12 2
 
 Кидать его по пути - C:\AkrienAntiLeak\game\configs
 
+Если кикает, то значения KillAura делайте меньше
 
 
 (ссылка на сайт акриена - https://akrien.wtf (не реклама))
